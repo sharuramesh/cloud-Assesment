@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Display Example</title>
+  <style>
+    /* Optional: Add some styling to the image */
+    .my-image {
+      max-width: 100%;
+      height: auto;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Image</h1>
+  <!-- Replace the src value with your image URL or relative path to an image file -->
+  <img src="https://example.com/path/to/your-image.jpg" alt="Descriptive text for accessibility" class="my-image">
+</body>
+</html>
+Explanation of key parts:
